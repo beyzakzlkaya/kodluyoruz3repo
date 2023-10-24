@@ -1,0 +1,27 @@
+body{
+    background-color: moccasin;
+}
+h1{
+    color: brown;
+}
+.menu{
+    display: flex; 
+    justify-content: center; 
+}
+.menu li{
+    display: inline;
+    align-items: center;
+    margin: auto;
+    position: relative;
+}
+h5{
+    text-align: center;
+    background-color:brown;
+    color: azure;
+    border-radius: 40%;
+    border-width: 5cm;
+}
+.list1{
+
+    justify-content: center; 
+}
