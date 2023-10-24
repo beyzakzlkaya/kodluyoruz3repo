@@ -14,14 +14,27 @@ h1{
     margin: auto;
     position: relative;
 }
+.yazi{
+    color:brown;
+}
 h5{
     text-align: center;
     background-color:brown;
     color: azure;
     border-radius: 40%;
-    border-width: 5cm;
+    border-width: 50cm;
+    margin-left: 10cm;   
+    margin-right: 15cm;   
 }
 .list1{
-
+    display: flex;
     justify-content: center; 
+}
+.list2{
+    display: flex;
+    justify-content: center;
+}
+.son{
+    display: flex;
+    justify-content: flex-end;
 }
